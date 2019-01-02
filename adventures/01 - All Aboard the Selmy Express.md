@@ -6,17 +6,17 @@ An 5th Edition D&D adventure for 4 to 6 level 1 adventurers.
 
 This adventure is intended to introduce new players to many concepts typical to tabletop RPGs.   There are opportunities for combat, investigative puzzle-solving, and navigating a sticky social situation.
 
-The adventure starts off on a literal railroad.  The players will be given the chance to settle in, make introductions, exhibit their personalities, and interact with a handful of NPCs.  About 2/3 the way through the journey, a series of events unfolds, culiminating in [The Heist]. as they might be [getting mixed up in things].
+The adventure starts off on a literal railroad.  The players will be given the chance to settle in, make introductions, exhibit their personalities, and interact with a handful of NPCs.  About 2/3 the way through the journey, a series of events unfolds, culiminating in [The Heist]. Look for oppotunities detailed in [player involvement] where any number of PCs are embroiled in the ensuing social conflict.
 
-Before the train reaches its terminus at [Selmy], any number of players are detained as witnesses or suspects. The witnesses are taken in for questioning, while the suspects are transported under guard to the town sheriff and potentially imprisoned, depending on the liklihood of their involvement with the [the Heist].
+Before the train reaches its terminus at [Selmy], PCs can be detained as witnesses or suspects. The witnesses are taken in for questioning, while the suspects are transported under guard to the town sheriff and potentially imprisoned, depending on the liklihood of their involvement with the [the Heist].
 
 Any players hanging around the sheriff's office will be enaged by [Inquisitor Candice].  Any suspects will be released into her custody by [Sheriff Rollins], provided they agree to some [terms of conditional release].
 
-The players will be allowed to investigate the train.  Some sleuthing can lead to any number of clues implicating several onboard.  Some may confess when threatened with jailtime.  The players can discover a hideout belonging to the thieves under the employ of the [Spark of Life].
+The players will be allowed to investigate the train.  Some sleuthing can lead to clues implicating several onboard.  Some of the guilty parties may confess when threatened with jailtime.  The players can discover a hideout belonging to the thieves under the employ of the [Spark of Life].
 
-Infiltrating the thieves' hideout involves trap avoidance and encounters with some mooks.  Along the way the party members could uncover secrets relating to their deities or patrons or magical secrets as a hook for the next part of the journey.
+Infiltrating the thieves' hideout involves trap avoidance and encounters with some mooks.  Along the way the party members can unearth an underground facility, holding truths relating to their deities or patrons or magical secrets as a hook for the next part of the journey.
 
-The final encounter is with the thieves who robbed the train, with [Morgan Cheerwine] as the ringleader.  They will be in process of moving the stolen goods on powered minecarts, and the players will have to choose whether to chase down the goods or finish off the encounter with the BBEG.  Attempting to do both may lead to the capture and enslavement of the remaining players.
+The final encounter is with the thieves who robbed the train, with [Morgan Cheerwine] as the ringleader.  They will be in process of moving the [stolen goods] on powered minecarts, and the players will have to choose whether to chase down the goods or finish off the encounter with the BBEG.  Attempting to do both may lead to the capture and enslavement of the remaining players.
 
 Upon successful return of the goods, the players who had been suspects will be pardoned.  If the players defeated the BBEG without recovering the goods, they will suffer consequences at the hands of the law.
 
@@ -24,14 +24,6 @@ Upon successful return of the goods, the players who had been suspects will be p
 * Our mission: The safety of your person and the security of your goods
 * [The Inquisitors] own a majority interest the rail line
 * Responsible for transporting goods and personnel throughout the better part of [Plena]
-
-### The Selmy Express
-* State-of-the-art steam engine, only requiring two refueling stops between [Heritage] and [Selmy] (a route of about 70 miles)
-* Can travel at a pace of 20 miles per hour
-* With stops, the journey between [Heritage] and [Selmy] should take 4 hours
-
-The cars are arranged as follows:  
-Engine | Fuel | Food Storage | Dining | Passenger | Sleeper | Guard's Quarters | Guarded Safe | Other Goods
 
 ### Setup
 * The players are traveling to [Selmy] for any number of reasons.  Presumably they were not all traveling together.
@@ -49,7 +41,7 @@ Some (not necessarily all) of the players become suspects after [the Heist] occu
 
 The players should any wrongful accusations personally, so as to jump at the opportunity to clear their names and bring the wrong-doers to justice.
 
-### Getting Mixed Up In Things
+### Player Involvement
 * One or more of the players sees something suspicious and goes to investigate, which leads to that player getting knocked out and left alive.
 
 ### The Heist
@@ -58,9 +50,41 @@ The players should any wrongful accusations personally, so as to jump at the opp
 * The sous-chef - Reno Williams.  
 * The charges were set on the *inside* of the cargo hold, despite what eyewitness accounts would have you believe.
 
+The setup
+
+* The (3) guards located in the [guard car] have been **poisoned** due to the food they ingested.
+* [Morgan Cheerwine] is waiting, well hidden, on the vestibule between the [sleeper car] and [guard car].
+* A horse-drawn cart with (2) bandits and [Fronderick] lie in wait in the woods.  (5) other mounted bandits stand at the ready.
+
+At **Water Stop B**, the following series of events unfolds:
+
+1. Several horses run up alongside the train.  (5) bandits enter at the vestibule between the [passenger car] and [sleeper car] #1. A single bandit keeps a lookout looking rearward into the [sleeper car], while the remaining (4) proceed forward through the passenger and dining cars, intimidating passengers into handing over any visible jewelry or other valulables.  This is a *distraction*, and the bandits have orders to avoid killing passengers.
+2. The guards waiting in the vestibule at the front of the safe car spot the bandits as they approach the train.  They alert the (3) guards in the guard car, who gather up their weapons and move forward through the two sleeper cars.
+3. [Morgan Cheerwine] reads a Level 2 *Sleep* scroll, casting it on the pair of guards in the vestibule between the [guard car] and [safe car]. Once they are asleep, he lifts the key to the [safe car] off one, and enters.
+4. [Morgan Cheerwine] sets an explosive charge inside the [safe car] and casts levitate on a finely crafted platinum bangle inside [the safe].  He then leaves the car and hurries toward the [passenger car].
+5. The players may choose to confront the bandits.  The bandits aren't interested in killing passengers, but may subdue a player if engaged and use the player as a temporary hostage. 
+6.  The (3) poisoned guards arrive on the scene and square off against the bandits in the [dining car].  The bandits will know the guards are coming, so they will try to buy as much time as possible.
+7. [Morgan Cheerwine] arrives on the scene (this is his alibi).
+8.  The charge explodes in the [safe car].  The explosion is heard and felt by all onboard.
+9.  The horse-drawn cart moves into place and [Fronderick] steps into the [safe car], quickly using its *Rust Metal* ability to sever the safe from the car.
+10.  [The safe], severed from the [safe car], now levitates freely, 5' off the ground.  The bandit jumps from the cart into the [safe car], and pushes the safe out the hole, over the cart, and ties it off with a short tether.  The safe is effectively weightless for the next 10 minutes.
+11.  The guards from the [Caboose] finally rouse themselves and move into the [safe car] where they see the bandit hurrying away from the scene.  [Fronderick] is hidden from sight on the cart.
+12. The bandits jump back on their horses and flee as soon as the explosion happens.  The guards remain behind to secure the safety of the passengers.
+
 ##### The Safe
-* Contained valuables totaling over 5,000 gp (inluding up to one rare magical artifact) were stolen.  As they are insured by the **Cantor Railroad Co**, it would be tremendous loss for this still-experimental form of travel.
-* Weighed less than 500 pounds, thus was moveable by the *Levitate* spell, which was cast by [Morgan Cheerwine].
+> This 2-foot cubic strongbox is constructed of solid steel.
+
+* Contained valuables totaling over 5,000 gp (inluding up to one rare magical artifact) were stolen.  As they are insured by the **Cantor Railroad Co**, it would be tremendous loss for this still-experimental form of travel
+* **The finest lock money can buy** - combination lock, DC30.  Only designated personnel within [the Cantor Railroad Co] know the combination.
+* Constructed is of 1" steel with interior lead plating.  Is fused to the chassis of the car below, so it could not possibly be removed.
+* Can be found discarded in the [Miner's Tunnel] or at a location of the DM's choosing, with a gaping, rusted hole on the side (see [Fronderick]).  A DC 12 Invesigation check reveals that some attempt had been made at prying open the safe, to no avail.
+
+A [shipping manifest] details the goods contained in the safe.
+
+##### Shipping Manifest
+> This ledger details the contents of [the safe]
+
+* (1) finely crafted platinum bangle, 
 
 ##### Terms of Conditional Release
 
@@ -71,11 +95,11 @@ The players should any wrongful accusations personally, so as to jump at the opp
 
 ##### Morgan Cheerwine
 * Bellhop of [the Selmy Express]
-* Unlocked the weapons storage for the on-board thieves.  They placed the charges while he cast *Levitate* on the safe.
+* Unlocked the weapons storage for the on-board thieves.  They placed the charges while he cast *Levitate* on [the Safe].
 * 4th-level halfling sorceror 
 * Spells known:
   * Cantrips: *Create Bonfire*, *Minor Illusion*, *Mage Hand*, *Fire Bolt*,  *Sword Burst*
-  * Level 1 (4 slots): *Expeditious Retreat*,*Shield*
+  * Level 1 (4 slots): *Expeditious Retreat*, *Shield*
   * Level 2 (3 slots): *Levitate*, *Dragon's Breath*, *Misty Step* 
 
 ##### Samantha Douglas
@@ -99,11 +123,86 @@ The players should any wrongful accusations personally, so as to jump at the opp
 
 ##### Sheriff Rollins
 
+##### Finnius Tandyl
+* Once the master of [Balemort's Crossing]
+* If engaged in combat, use statistics for *Specter, MM 279*
+* His spirit will "reset" each dawn in [Balemort's Secret - Master's Quarters] if he was simply defeated. He will have no memory of the players if they engaged him previously.
+* He seeks the PCs help so that his spirit can be redeemed and finally rest
+
+##### Fronderick
+
+* A rust monster (MM 262) domesticated as a pet by [Morgan Cheerwine].
+* He has a higher than average Intelligence score of 4.  Thus he can understand simple commands and resists the instinct to turn all metal to rust.
+* Was used to crack open [the Safe].
+
 ### Places
+
+##### The Selmy Express
+* State-of-the-art steam engine, only requiring two refueling stops between [Heritage] and [Selmy] (a route of about 70 miles)
+* Can travel at a pace of 20 miles per hour
+* With stops, the journey between [Heritage] and [Selmy] should take 4 hours
+
+The cars are arranged as follows:  
+Engine | Kitchen | Dining | Passenger | Sleeper #1 | Sleeper #2 | Guard's Quarters | Guarded Safe | Caboose
+
+All cars except the fuel car have a single door at either end, unless noted otherwise.  Vestibules exist for all cars except the engine.  Stairs lead up into each vestibule for easy boarding, except for those to either side of the Safe Car.
+
+##### Engine
+
+> You step into the state-of-the-art steam engine.  Knobs, gauges, and valves abound.  Heat radiates from a glowing, coal-fired furnace.  A shovel hangs near a small coal chute.
+
+##### Kitchen Car
+
+> You pass into an organized, well-stocked kitchen.  The lingering smell of roasted duck fills your nostrils. Cabinets line the walls.  Soiled pots and pans are piled high in the wash basin.
+
+##### Dining Car
+
+> You walk into a sunlit dining car, abuzz with lunchtime activity.  A bartender wipes down a shiny, copper-clad bar.  Only a few booths sit empty.
+
+The bartender is [Samantha Douglas].
+
+##### Passenger Car
+
+> You see before you a plush, roomy passenger car.  Well-dressed passengers mill about.  Colorful luggage is stuffed above either side of the aisle.  You are greeted by the bellhop.
+
+The bellhop is [Morgan Cheerwine].  He offers to show any players to their rooms if bought a ticket to travel beyond Selmy.
+
+##### Sleeper Car
+
+> You pass between cars, entering the private sleeper car.  The clickety-clack of the tracks is muffled significantly here.  Four sliding doors flank a single, carpeted aisle.
+
+##### Guard Car
+
+> You step into a musty guardsroom. Hanging cots sway with the motion of the train.  Three guards play cards around a large, wooden trunk.  In the vestibule beyond, you see two guards standing beside a single iron door.
+
+The iron door has a DC20 lock.  A key can be found on one of the guards.
+
+##### Safe Car
+
+This area is inaccesible until after [the Heist] has occurred.
+
+> You see before you an eerily vacant, small car. A gaping hole in the middle of one wall allows sunlight to pour into what would otherwise be a completely sealed space.   Debris lies scattered about the area.  A single steel pedestal stands a few inches tall - its top face completely coated in rust.
+
+Any player with explosives familiarity (fire-based magic counts) can observe that the steel comprising the hull of the car was bent **outward** with the blast.  Thus, any charges would have been placed inside.  A DC12 Investigation check confirms the presence of TNT residue and bomb shrapnel inside the car.
+
+The safe once sat fused atop the now-rusted pedestal.  The pedestal emerges from the floor like a tree trunk - ripping up the flooring confirms the base of the pedestal is welded to the car's frame.  A successful DC12 Nature check reveals the rust does not appear natural due to its uniformity.  In the unlikely event a player asks specifically whether a creature might have been able to produce the effect, a DC20 History check reveals that there exists a creature called a rust monster (MM 262).
+
+##### Caboose
+
+> You see before you a disorganized storage area.  Heaps of trade goods are securely fastened with hempen netting.  A pair of oil lanterns dangle from the ceiling.
+
+Before [the Heist] occurs, this area can only be accessed by climbing outside the train and entering from the train's rear.  If that happens, there are two guards protecting the entrance to [the Selmy Express - Safe Car].  The guards are instructed to subdue by force anyone who enters this car without permission, assuming ill-intent.
+
+>  Two guards are seated to either side of a single iron door.  They spot you, rise quickly, and approach you with weapons raised, shouting that you fall to your knees.
+
+The iron door has a DC20 lock.  A key can be found on one of the guards.
+
+The caboose contains all the trade goods being transported by [the Selmy Express], as well as the overflow passenger luggage (checked baggage).  No valuables  
 
 ##### Selmy
 * Frontier metropolis
-* People include any number of the followingk[]   * Prospectors
+* People include any number of the followingk
+   * Prospectors
    * Mine workers
    * Brothel workers
 
@@ -118,7 +217,125 @@ The players should any wrongful accusations personally, so as to jump at the opp
 
 ##### Plenaru
 * Capital City of [Plena]
-* Seaside 
+* Situated on the eastern shore of the [Sea of the Nameless King]
+
+##### Bellamy Foothills
+
+> A snow-capped range extends to the north and south beyond the limits of view, flanking [Selmy] to the west. Sparse deciduous foliage transitions to alpine meadows farther up the slopes.  Glaciers advance on the few navigable passes.
+
+This minor mountain range is pockmarked with abandoned mineshafts and tunnels where silver and iron ore were once strip-mined.
+
+Crossing the mountain range between [Selmy] and the [Nocturne Valley] requires 4000' of elevation gain and loss.  By foot, at an average pace, it would take the party (4) hours to summit, longer with goods in tow.
+
+A [miner's tunnel] passes beneath the mountain range.  If the the party spends at least 1d4 group-hours searching around the base of the Foothills, they will come across it.  A successful DC12 survival check can confirm that recently a heavy-laden cart was wheeled into the [miner's tunnel].
+
+##### Miner's Tunnel
+
+> This rough-hewn rock tunnel dives beneath the [Bellamy Foothills].  Axe and pick marks from a bygone era marks is walls and ceiling.  The tunnel varies between 5' and 15' wide.  Dozens of passageways branch off along its course.
+
+Player tension should mount while they wander through the tunnel, since the window for retreiving the [stolen goods] is shrinking.
+
+The tunnel was recently used by the [thieves] to transport their [stolen goods].  (3) successful DC12 survival checks are required to sucessfully follow cart ruts and navigate between the tunnels exits, one near [Selmy], the other leading into the [Nocturne Valley].
+
+A failed check will lead the party down a wrong, dead-end path for up to an hour, at which point they could have a random encounter.  The nature of this encounter is up to the DM's discretion, though more than one combat encounter in the tunnel is discouraged as this just delays the party's progress toward their goal.  An encounter with a friendly creature is highly encouraged, even moreso if the players gravitate toward the murder-hobo end of the aggression spectrum.
+
+##### Nocturne Valley
+
+> Rough, gnarled foliage dominates the slopes this side of the [Bellamy Foothills]. Scrubby oaks give way to a desolation that dominates the majority of the valley, as though a forest fire once occurred but the flora was unable to recover. Crows caw amidst the mournful landscape.  Otherwise no living signs are visible.
+
+The [thieves] hired by the [Spark of Life] have taken up shelter in [Balemort's Crossing].
+
+The valley is separated from Selmy by the [Bellamy Foothills].  The color palette is a drab grey-black with a smattering of white.
+
+Entrants to the valley are noticeable from a ways off. Natural predators hunt those who do not take care to move stealthily.  Any creature attempting to spot the party gets advantage if any player wears brightly-colored clothing.  Any loud sounds from spells or obnoxious PC's will attract creatures from up to half a mile away.
+
+##### Balemort's Crossing
+
+> A ruined stone keep sits nestled at the junction of the valley's river and one of its tributaries.  Guards in ramshackle hide and metal armor dot its few remaining battlements.  No banner hangs from the walls, though corpses of creatures in various stages of decay are set on pikes in front of a gatehouse.
+
+This long-forgotten military checkpoint is situated at what was once a port after a fashion.  Trade goods passed upstream. Furs, timbers, fuel, and ore passed downstream.  Military personnel were stationed here to monitor the transactions and activity and to safeguard against bandits who would otherwise exploit the working class folk (trappers, loggers, miners).
+
+##### Balemort's Crossing - Gatehouse
+> A stone archway marks the compound's entrance.  Torchlight from the compound beyond flickers through rampant cracks in the edifice.  Tall double doors of wood an iron bar direct entry.  Nearby, a single guard leans against a door jam while smoking a joint.
+
+##### Balemort's Crossing - Breezeway
+
+##### Balemort's Crossing - Armory
+> You open the door to find an unlit, disused armory.  What little standing furniture remains are covered by oil stains.  A rusted steel warpick is propped against a rotting weapons rack.  A dusty footlocker sits at the foot foot a mouldering cot.
+
+The dusty footlocker is a Mimic ()
+
+##### Balemort's Crossing - Storage
+
+##### Balemort's Crossing - Bunkroom
+
+##### Balemort's Crossing - Recreation Room
+Dining room, cards, poker chips
+
+##### Balemort's Crossing - Secure Storage
+
+##### Balemort's Crossing - Kennels
+
+##### Balemort's Crossing - 
+A *Rust Monster (MM 262)* named 
+
+### Access to Balemort's Secret
+
+[Balemort's Crossing] sits atop and conceals [Balemort's Secret].  Two access points exist:
+
+###### Pit Trap
+
+> You see a steel spike conspicuously wedged in the ground, jutting from a stone crevice.
+
+The wedge has been placed to jam the trap mechanism shut.  A DC12 Investigation check confirms the existence of the trap.  A DC15 Strength check can free the wedge, returning the trap to its operational state.  A player proficient with thieves' tools can do the same with a DC10 Thieves' Tools check.  Once operational, the trap will reset 30 seconds after being triggered.
+
+Triggering the pit trap results in a 30' fall, which could prove deadly for 1st level PCs.  Handholds carved into the pit wall grant advantage to anyone wishing to climb up or down.
+
+The bottom of the pit is dark and 10' square. A DC12 Perception check reveals a loose stone concealing a trapped knob (DC 15 Investigation).  Turning or pulling the knob releases a poison cloud, filling the area (DC15 Constitution saving throw or become poisoned and blinded for 10 minutes).  The trap becomes inert after one activation.  Pushing the knob reveals a hidden passageway into [Balemort's Secret].
+
+###### Dingy Armoire
+
+> A stained, moldy armoire stands along the wall.  
+
+A PC that inspects the armoire will notice it is covered in intricate carvings and must have been very expensive.  A DC12 Arcana check will uncover runic symbols interlaced with the woodwork.
+
+It can be used to teleport up to (2) medium or smaller creatures to its twin located at [Balemort's Secret - Study].  To activate it, a creature must enter, close the doors, extinguish all lights, and wait a minimum of (3) rounds.  Anyone on the outside will see a flash of runic symbols as the teleportation effect occurs.
+
+##### Balemort's Secret
+
+The PCs can wander into this experimentation facility and uncover truths which can serve as plot hooks for the next adventure or reveal hidden lore essential to a player's progress on another story arc.
+
+##### Balemort's Secret - Workroom
+
+> A short hallway opens into a workroom.  The rotting remains of derelict workbenches line opposite walls.
+
+##### Balemort's Secret - Study
+
+> A pristine armoire stands along the wall.
+
+##### Balemort's Secret - Observation Room
+
+##### Balemort's Secret - Labratory
+
+##### Balemort's Secret - Infirmary
+
+##### Balemort's Secret - Guard Room
+
+##### Balemort's Secret - Worker's Quarters
+
+##### Balemort's Secret - Master's Quarters
+
+Herein resides the spirit of [Finnius Tandyl].
+
+##### Balemort's Secret - Holding Cells
+
+##### Balemort's Secret - Storage
+
+##### Balemort's Secret - Kitchen
+
+##### Balemort's Secret - Pantry
+
+##### Balemort's Secret - Washroom
 
 ### Items
 
@@ -132,8 +349,12 @@ The bangle can be worn by a large or smaller creature.  The bracelet negates the
 *Wondrous Item, Rare (requires attunement)*  
 The circlet grants the wearer knowledge of the direction and distance to a linked [Scrying Bangle] on the same plane of existence.  The link between up to (4) bracelets and the circlet can be made during the attunement process.  The wearer has no knowledge of whether the bracelet is currently being worn by a creature.
 
+##### Stolen Goods
+
 ### Factions
 
 ##### The Inquisitors
+
+##### Thieves
 
 ##### Spark of Life
