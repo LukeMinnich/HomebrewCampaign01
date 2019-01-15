@@ -1,35 +1,60 @@
- # All Aboard the Selmy Express
+***All Aboard the Selmy Express***
 
-An 5th Edition D&D adventure for 4 to 6 level 1 adventurers.
+A D&D 5th Edition adventure for 4 to 5 level 1 adventurers.
 
 ### Overview and Motivation
 
 This adventure is intended to introduce new players to many concepts typical to tabletop RPGs.   There are opportunities for combat, investigative puzzle-solving, and navigating a sticky social situation.
 
-The adventure starts off on a literal railroad.  The players will be given the chance to settle in, make introductions, exhibit their personalities, and interact with a handful of NPCs.  About 2/3 the way through the journey, a series of events unfolds, culiminating in [The Heist]. Look for oppotunities detailed in [player involvement] where any number of PCs are embroiled in the ensuing social conflict.
+The adventure starts off on a literal railroad.  The players will be given the chance to settle in, make introductions, act out their personalities, and interact with a handful of NPCs.  About 2/3 the way through the journey, a series of events unfolds, culiminating in [The Heist]. The DM should review [Detained] to look for oppportunities to cast the players in a guilty light.
 
 Before the train reaches its terminus at [Selmy], PCs can be detained as witnesses or suspects. The witnesses are taken in for questioning, while the suspects are transported under guard to the town sheriff and potentially imprisoned, depending on the liklihood of their involvement with the [the Heist].
 
-Any players hanging around the sheriff's office will be enaged by [Inquisitor Candice].  Any suspects will be released into her custody by [Sheriff Rollins], provided they agree to some [terms of conditional release].
+Any players hanging around the sheriff's office will be engaged by [Special Agent Sancourt].  Any suspects will be released into her custody by [Sheriff Rollins], provided they agree to some [terms of conditional release].
 
-The players will be allowed to investigate the train.  Some sleuthing can lead to clues implicating several onboard.  Some of the guilty parties may confess when threatened with jailtime.  The players can discover a hideout belonging to the thieves under the employ of the [Spark of Life].
+The players will be allowed to investigate the train.  Some sleuthing can lead to [evidence] implicating several onboard.  Some of the guilty parties may confess when threatened with jailtime.  The players can discover a hideout belonging to the [thieves] under the employ of the [Spark of Life].
 
-Infiltrating the thieves' hideout involves trap avoidance and encounters with some mooks.  Along the way the party members can unearth an underground facility, holding truths relating to their deities or patrons or magical secrets as a hook for the next part of the journey.
+Infiltrating the thieves' hideout involves trap avoidance and encounters with some mooks.  Along the way the party members can unearth an underground facility, which can hold truths relating to their deities or patrons or magical secrets as a hook for the next part of the journey.
 
-The final encounter is with the thieves who robbed the train, with [Morgan Cheerwine] as the ringleader.  They will be in process of moving the [stolen goods] on powered minecarts, and the players will have to choose whether to chase down the goods or finish off the encounter with the BBEG.  Attempting to do both may lead to the capture and enslavement of the remaining players.
+The final encounter is with the [thieves] who robbed the train, with [Morgan Cheerwine] as ringleader.  They will be in process of moving the [stolen goods] on a powered boat, and the players will have to choose whether to chase down the goods or take down the thieves.  Attempting to do both may lead to the capture and enslavement of the remaining players.
 
-Upon successful return of the goods, the players who had been suspects will be pardoned.  If the players defeated the BBEG without recovering the goods, they will suffer consequences at the hands of the law.
+Upon successful return of the goods, the players who had been suspects will be pardoned.  If the players defeated the [thieves] without recovering the goods, they will suffer consequences at the hands of the law.
 
-### The Cantor Railroad Co
-* Our mission: The safety of your person and the security of your goods
-* [The Inquisitors] own a majority interest the rail line
-* Responsible for transporting goods and personnel throughout the better part of [Plena]
-
-### Setup
+### Beginning the Adventure
 * The players are traveling to [Selmy] for any number of reasons.  Presumably they were not all traveling together.
 * They are asked to give up their weapons while boarding.  They can choose to give them up or conceal them. Stress that no one is patting down people as they board.
 * Any players boarding in [Heritage] will be ushered to the passenger car
 * Any players who were already on board will have a place in the sleeper car if they coud reasonably afford it.  Otherwise they might be spread out in the passenger car.
+
+### The Heist
+
+The setup
+
+* The (3) guards located in the [guard car] have been **poisoned** due to the drinks they imbibed. Ideally, [Samantha Douglas] would have convinced a player to make the delivery.
+* [Morgan Cheerwine] will offer a tour of the sleeping accomodations to one or two characters, giving them time to relax there as an enticement for renting a room in the sleeper car next trip.  He will single out any character that looks worldly or claims to be a traveler.  Ideally, they would remain there until the bomb goes off.
+* [Morgan Cheerwine] is waiting, well hidden, on the vestibule between the [sleeper car] and [guard car].
+* A horse-drawn cart with a bandit, [Fermi Twiststump], and [Fronderick] lies in wait in the woods.  (5) other mounted bandits stand at the ready.
+
+At *Water Stop B*, the following series of events unfolds:
+
+1. Several horses run up alongside the train.  (5) bandits enter at the vestibule between the [passenger car] and [sleeper car] #1. A single bandit keeps a lookout looking rearward into the [sleeper car], while the remaining (4) proceed forward through the passenger and dining cars, intimidating passengers into handing over any visible jewelry or other valulables.  This is a *distraction*, and the bandits have orders to avoid killing passengers.  [Clarence Semmelweis] mutters under his breath while in the dining car and gets knocked unconscious.
+2. The guards waiting in the vestibule at the front of the [safe car] spot the bandits as they approach the train.  They alert the (3) guards in the guard car, who gather up their weapons and move forward through the two sleeper cars.
+3. [Morgan Cheerwine] reads a Level 2 *Sleep* scroll, casting it on the pair of guards in the vestibule between the [guard car] and [safe car]. Once they are asleep, he lifts the key to the [safe car] off one, and enters.
+4. [Morgan Cheerwine] sets an explosive charge inside the [safe car] and casts levitate on a finely crafted platinum bangle inside [the safe].  He then leaves the car and hurries toward the [passenger car].
+5. The players may choose to confront the bandits.  The bandits aren't interested in killing passengers, but may subdue a player if engaged and use the player as a temporary hostage. 
+6.  The (3) poisoned guards arrive on the scene and square off against the bandits in the [dining car].  The bandits will know the guards are coming, so they will try to buy as much time as possible.
+7. [Morgan Cheerwine] arrives on the scene (this is his alibi).
+8.  The charge explodes in the [safe car].  The explosion is heard and felt by all onboard.
+9.  The horse-drawn cart moves into place and [Fronderick] steps into the [safe car], quickly using its *Rust Metal* ability to sever the safe from the car.
+10.  [The safe], severed from the [safe car], now levitates freely, 5' off the ground.  [Fermi Twiststump] jumps from the cart into the [safe car], and pushes the safe out the hole, over the cart, and ties it off with a short tether.  The safe is effectively weightless for the next 10 minutes.
+11.  The guards from the [Caboose] finally rouse themselves and move into the [safe car] where they see [Fermi Twiststump] hurrying away from the scene.  [Fronderick] is hidden from sight on the cart.
+12. The bandits that had passed through the [passenger car] and [dining car] jump back on their horses and flee as soon as the explosion happens.  The guards remain behind to secure the safety of the passengers.
+
+### Post-heist Resolution
+
+Everyone onboard is wary of the bandits return, so the train will resume movement as soon as its water supply is replenished.  The guards will prevent anyone from leaving the [dining car] and [passenger car], and will go between each [sleeper car] to move every passenger to those cars.  They will make note of anyone without an alibi (anyone absent when the bandits did their intimidation thing).
+
+> After the guards have consolidated everyone between the [dining car] and [passenger car], the train lurches as it resumes its journey to Selmy.
 
 ### Detained
 Some (not necessarily all) of the players become suspects after [the Heist] occurs, as the train comes to a stop in [Selmy]
@@ -39,101 +64,240 @@ Some (not necessarily all) of the players become suspects after [the Heist] occu
 * Some were found with weapons on their persons when that is strictly forbidden (weapons are collected and stowed at the door).
 * Resisting arrest
 
-The players should any wrongful accusations personally, so as to jump at the opportunity to clear their names and bring the wrong-doers to justice.
+The players should take any wrongful accusations personally, so as to jump at the opportunity to clear their names and bring the wrong-doers to justice.
 
-### Player Involvement
-* One or more of the players sees something suspicious and goes to investigate, which leads to that player getting knocked out and left alive.
-
-### The Heist
-* The train is hit while it awaits refueling and re-watering at *Water Stop B*, one of two stops on [the Selmy Express] between the last stop [Heritage] and [Selmy].
-* The bartender - Sam Douglas.  He poured a few drinks for the guards to calm their nerves; the drinks were laced with a poison similar to **Torpor**, but instead of making them sick it made them drowsy and incapable of discerning to what they bore witness.
-* The sous-chef - Reno Williams.  
-* The charges were set on the *inside* of the cargo hold, despite what eyewitness accounts would have you believe.
-
-The setup
-
-* The (3) guards located in the [guard car] have been **poisoned** due to the food they ingested.
-* [Morgan Cheerwine] is waiting, well hidden, on the vestibule between the [sleeper car] and [guard car].
-* A horse-drawn cart with (2) bandits and [Fronderick] lie in wait in the woods.  (5) other mounted bandits stand at the ready.
-
-At **Water Stop B**, the following series of events unfolds:
-
-1. Several horses run up alongside the train.  (5) bandits enter at the vestibule between the [passenger car] and [sleeper car] #1. A single bandit keeps a lookout looking rearward into the [sleeper car], while the remaining (4) proceed forward through the passenger and dining cars, intimidating passengers into handing over any visible jewelry or other valulables.  This is a *distraction*, and the bandits have orders to avoid killing passengers.
-2. The guards waiting in the vestibule at the front of the safe car spot the bandits as they approach the train.  They alert the (3) guards in the guard car, who gather up their weapons and move forward through the two sleeper cars.
-3. [Morgan Cheerwine] reads a Level 2 *Sleep* scroll, casting it on the pair of guards in the vestibule between the [guard car] and [safe car]. Once they are asleep, he lifts the key to the [safe car] off one, and enters.
-4. [Morgan Cheerwine] sets an explosive charge inside the [safe car] and casts levitate on a finely crafted platinum bangle inside [the safe].  He then leaves the car and hurries toward the [passenger car].
-5. The players may choose to confront the bandits.  The bandits aren't interested in killing passengers, but may subdue a player if engaged and use the player as a temporary hostage. 
-6.  The (3) poisoned guards arrive on the scene and square off against the bandits in the [dining car].  The bandits will know the guards are coming, so they will try to buy as much time as possible.
-7. [Morgan Cheerwine] arrives on the scene (this is his alibi).
-8.  The charge explodes in the [safe car].  The explosion is heard and felt by all onboard.
-9.  The horse-drawn cart moves into place and [Fronderick] steps into the [safe car], quickly using its *Rust Metal* ability to sever the safe from the car.
-10.  [The safe], severed from the [safe car], now levitates freely, 5' off the ground.  The bandit jumps from the cart into the [safe car], and pushes the safe out the hole, over the cart, and ties it off with a short tether.  The safe is effectively weightless for the next 10 minutes.
-11.  The guards from the [Caboose] finally rouse themselves and move into the [safe car] where they see the bandit hurrying away from the scene.  [Fronderick] is hidden from sight on the cart.
-12. The bandits jump back on their horses and flee as soon as the explosion happens.  The guards remain behind to secure the safety of the passengers.
+### Objects
 
 ##### The Safe
 > This 2-foot cubic strongbox is constructed of solid steel.
 
-* Contained valuables totaling over 5,000 gp (inluding up to one rare magical artifact) were stolen.  As they are insured by the **Cantor Railroad Co**, it would be tremendous loss for this still-experimental form of travel
-* **The finest lock money can buy** - combination lock, DC30.  Only designated personnel within [the Cantor Railroad Co] know the combination.
-* Constructed is of 1" steel with interior lead plating.  Is fused to the chassis of the car below, so it could not possibly be removed.
+* Contained valuables totaling over 5,000 gp, insured by the [Cantor Railroad Company].
+* **The finest lock money can buy** - combination lock, DC30.  Only designated personnel within the [Cantor Railroad Company] know the combination.
+* Constructed of 1" steel with interior lead plating.  Is fused to the chassis of the car below, so it could not possibly be removed.
 * Can be found discarded in the [Miner's Tunnel] or at a location of the DM's choosing, with a gaping, rusted hole on the side (see [Fronderick]).  A DC 12 Invesigation check reveals that some attempt had been made at prying open the safe, to no avail.
 
-A [shipping manifest] details the goods contained in the safe.
+A [shipping manifest] accurately details the safe contents.
 
 ##### Shipping Manifest
 > This ledger details the contents of [the safe]
 
-* (1) finely crafted platinum bangle, 
+This could be made into a player handout
+
+* Ten (10) platinum trade bars
+   * Declared value: 1,000 gp
+   * Owner: [Clarence Semmelweis], esq
+* One silver & sapphire necklace, one pair sapphire earrings
+   * Declared value: 600 gp
+   * Owner: Duchess Sterling
+* One [Engraved, Metallic rod]
+   * Declared value: 4,000 gp
+   * Owner: (redacted) care of [Special Agent Jeffords]
+   * Remarks: authenticity not verified.  Any insurance claims will require 3rd party authentication.  Value at declaration may very well be artificially inflated considerably, considering the source.
+* One finely crafted platinum bangle
+   * Declared value: 50 gp
+   * Owner: [Morgan Cheerwine]
+* One pair colorful, silken trousers, one colorful, silken shirt
+   * Declared value: 20 gp
+   * Owner: [Levi Entwistle]
+   * Remarks: we really should enforce a minimum value for items in the strongbox.  Tacky pantaloons should not be considered "valuables," no matter how much some idiot paid for them.  I'll take it up with the boss.
+
+##### Evidence
+
+The following evidence can lead the players to the culprits
+
+* Evidence implicating [Morgan Cheerwine]
+   * Receipt for the *Sleep* scroll from [Mad Cloony's Emporium of Oddities], for 350gp, "Money Back Guarantee".  Located in the [caboose] among his posessions.
+   * [Levi Entwistle] will mention he saw [Morgan Cheerwine] pass by his [sleeper car] suite just before the bomb went off. He won't think this is relevant, but will divulge it if asked to give his full account of his whereabouts during [the Heist]. [Misty Duskswallow] will corroborate.
+   * Schematics depicting the safe, its attachment to the car, and a dashed line indicated the optimal bifurcation point, along with some weight calculations.  Located crumpled up in a waste bin in the [engine].  [Eustace Pence] helped [Morgan Cheerwine] to make the calculations as a thought experiment, though he doesn't remember well Morgan's name or appearence, other than he is about the same height.
+* Evidence implicating [Samantha Douglas]
+   * Once in [Selmy], she will skulk about at night to find the location of the drop where she was promised the second half of her payment.
+   * Vials of [Helmut's Bane] were hastily discarded behind the bar.  The vials are smashed, but anyone proficient with Alchemist's supplies or a Poisoner's kit can discern the nature of the poison and correlate that with the symptons exhibited by the guards.
+* Red herrings
+   * [Reno Williams] will contradict his history as stated in his employee record.  Reno is an assumed alias, to hide from people to whom he owes a sizable gambling debt.
+   * [Levi Entwistle] paid for sex with [Misty Duskswallow] though he will deny it at first, out of genuine embarassment
+   * [Clarence Semmelweis] is fuming mad with the [Cantor Railroad Company] regarding his insurance claim.  He will get drunk, belligerant, and spout off about his employer, [Teknolojik].
+   * [Eustace Pence] has shor term memory problems, though otherwise his mind is keen.  The [engine] has several reminders to the effect of "press this knob and whoosh" scribbled in gnosish.  He has all sorts of sketches of inventive ideas, though most of them far-fetched approaching hair-brained.
+
+##### Engraved, Metallic Rod
+* This is a *Rod of Rulership* (DM 197)
+* This item was the primary target of [the Heist]
+* To the right buyer, this would fetch quite a lot of money
+* This could be used narratively as an item which is being used to manipulate popular opinion
 
 ##### Terms of Conditional Release
 
 * Suspects must be wear a [Scrying Bangle]
-* Suspects must work at the behest of [Inquisitor Candice] to recover the stolen property within a period of 24 hours
+* Suspects must work at the behest of [Special Agent Sancourt] to recover the stolen property within a period of 24 hours
 
 ### Persons of Interest
 
 ##### Morgan Cheerwine
 * Bellhop of [the Selmy Express]
-* Unlocked the weapons storage for the on-board thieves.  They placed the charges while he cast *Levitate* on [the Safe].
-* 4th-level halfling sorceror 
+* Male halfling
+* Portrayal
+   * Personality: Chipper
+   * Posture: head cocked to one side, hands on hips, stiff
+   * Pause: "well..."
+   * Fidget: spastic waddle
+* Contribution to [The Heist]
+   * Cast *Sleep* on guards using a spell scroll
+   * Gained entry to the [safe car]
+   * Set explosive charge
+   * Cast *Levitate* on platinum bangle inside safe
+   * Locked up [safe car] and returned to the [passenger car] before the explosion triggered
+* *4th-level sorceror*
 * Spells known:
-  * Cantrips: *Create Bonfire*, *Minor Illusion*, *Mage Hand*, *Fire Bolt*,  *Sword Burst*
+  * Cantrips: *Create Bonfire*, *Mage Hand*, *Fire Bolt*,  *Sword Burst*
   * Level 1 (4 slots): *Expeditious Retreat*, *Shield*
   * Level 2 (3 slots): *Levitate*, *Dragon's Breath*, *Misty Step* 
 
 ##### Samantha Douglas
 * Bartender of [the Selmy Express]
-* She poured a few drinks for the guards to calm their nerves
-* She flirts and asks one of the players to deliver the drinks to the guards, claiming she is "slammed" with other work
-* The drinks were laced with a poison similar to *Torpor (DM 257-258)*, but instead of making them sick it made them drowsy and incapable of discerning correctly what they witnessed.
+* Female half-elf, jet black hair, tatooed
+* Portrayal
+   * Personality: Flirtatious
+   * Posture: shoulders back, relaxed
+   * Pause: "I think..."
+   * Fidget: blinks a lot
+* Contribution to [The Heist]
+   * She pours a few drinks for the guards to calm their nerves, lacing them with a poison, [Helmut's Bane].
+   * She flirts with one of the players and asks him/her to deliver the drinks to the guards, claiming she is "slammed" with other work, bribing a reluctant player with free drinks for the remainder of the trip.
+* Was promised 100gp by an anonymous source to poison the guards - dead drop in Selmy is the second half 
 
 ##### Reno Williams
 * Sous-chef of [the Selmy Express]
-* He served up a meal to the guards, containing a poison *Essence of Ether (DM 257-258)* that was released as they cut into the Chicken Cordon Bleu.
-* He has an outstanding debt to the 
+* Human male
+* Portrayal
+   * Personality: Jumpy
+   * Posture: Slouches
+   * Pause: "Hmmmm..."
+   * Fidget: darts eyes warily
+* Red herring - shifty character, but not invovled with [The Heist].
+* Alibi: he was in [the kitchen car]
+* He has an outstanding debt to some creditors and has been operating under an assumed identity for the past 6 months.
 
-##### Perry Como
+##### Perry Soto
 * Head chef
-* Was not involved in the heist
-* Will vouch for him those under his employ
+* Dwarven male
+* Portrayal
+   * Personality: Bombastic
+   * Posture: Upright, proud
+   * Pause: "You know..."
+   * Fidget: wrings hands
+* Was not involved in [the Heist]
+* Alibi: he went to chat with the [Eustace Pence] in the [Engine] when the refueling started, so they were together when the bomb went off  
+* Will vouch for the character [Reno Williams], but can't confirm his alibi
 
-##### Inquisitor Candice
-* Member of [the Inquisitors]
+##### Eustace Pence
+* Engineer and Conductorf
+* Elderly Deep Gnome
+* Portrayal
+   * Personality: Doddering
+   * Posture: hunched
+   * Pause: "Oh yes, well..."
+   * Fidget: has the shakes
+* Was not involved directly in [the Heist], though accidentaly assisted [Morgan Cheerwine].  See [evidence].
+* Alibi: was overseeing the fuel and water transfer at [Water Stop B], intent on following the procedure.  Does not remember [Perry Soto] being nearby, though he was.
+
+##### Levi Entwistle
+* Male Tiefling, crimson-colored skin, asymmetric horns (one swoops across forehead)
+* Portrayal
+   * Personality: Jovial
+   * Posture: bouncy, rotund, waddle
+   * Pause: "Aahhhh."
+   * Fidget: traces horns with index finger of left hand
+* Was not involved in [the Heist]
+* Alibi: was having a 'roll in the hay' with another passenger, [Misty Duskswallow].  Will deny he had paid for sex, claiming his charm has seductive capabilities.
+
+##### Misty Duskswallow
+* Real name: Ana'la'inu
+* Female escort, working for [Madame Belvedere]
+* Female Aasimar, pink pupils, appears to be an albino human
+* Portrayal
+   * Personality: Shy
+   * Posture: submissive, downcast
+   * Pause: "Ummm..."
+   * Fidget: Wrings hands, bites lip
+* Was not involved in [the Heist]
+* Alibi: was servicing [Levi Entwistle] for payment.
+
+##### Clarence Semmelweis
+* Executive of [Teknolojik]
+* Male human
+* Portrayal
+   * Personality: impatient
+   * Posture: uptight
+   * Pause: "See now..."
+   * Fidget: Grinds teeth
+* Was not involved in [the Heist]
+* Alibi: was in the [dining car], at the bar, and got smacked over the head for talking under his breath to the bandits
+
+##### Special Agent Sancourt
+* Agent Rank 3 for [the Mastersons]
+* Full Name: April Sancourt
+* Female tabaxi
+* Portrayal
+   * Personality: Bureaucratic
+   * Posture: wide stance, tries to make herself look bigger than she actually is
+   * Pause: "Maybe..."
+   * Fidget: tail sways back and forth, licks fur
+
+##### Special Agent Jeffords
+* Agent Rank 4 for [the Mastersons]
+* Full name: Paul Jeffords
+* Male goliath
+* Portrayal
+   * Personality: Frustrated (though normally Brash)
+   * Posture: Towering, in-your-face
+   * Pause: "Nnnghhh..."
+   * Fidget: rubs chin / stubble
+* Direct superior of [Special Agent Sancourt]
 
 ##### Sheriff Rollins
+* Local sheriff of [Selmy]
+* Male half-orc
+* Portrayal
+   * Personality: Suspicous
+   * Posture: 
+   * Pause: "Well then..."
+   * Fidget: 
+
+##### Fronderick
+
+* A male rust monster (MM 262), raised and domesticated by [Fermi Twiststump]
+* Has a higher than average Intelligence score of 4.  Thus he can understand simple commands and resists the instinct to turn all metal to rust.
+* Was used to crack open [the Safe].
+
+##### Fermi Twiststump
+* Female firbolg
+* Portrayal
+   * Personality: Scared
+   * Posture: Cowed, shoulders pinched
+   * Pause: "Mmmmmmmmm..."
+   * Fidget: Bites bottom lip
+* Contribution to [the Heist]
+   * Rode the getaway cart with [Fronderick].
+   * Moved [the safe] from the [safe car], and fastened it to the getaway cart
+* She has been coerced into service, and promised safe release of her family (wife, son) after the hands off of the [stolen goods]. 
 
 ##### Finnius Tandyl
 * Once the master of [Balemort's Crossing]
+* Portrayal
+   * Personality: Frustrated
+   * Posture: floating
+   * Pause: (sucking air sound)
+   * Fidget: moves head side to side
 * If engaged in combat, use statistics for *Specter, MM 279*
 * His spirit will "reset" each dawn in [Balemort's Secret - Master's Quarters] if he was simply defeated. He will have no memory of the players if they engaged him previously.
 * He seeks the PCs help so that his spirit can be redeemed and finally rest
 
-##### Fronderick
+##### Madame Belvedere
 
-* A rust monster (MM 262) domesticated as a pet by [Morgan Cheerwine].
-* He has a higher than average Intelligence score of 4.  Thus he can understand simple commands and resists the instinct to turn all metal to rust.
-* Was used to crack open [the Safe].
+##### Duchess Sterling
+* Cross-dressing male high elf
+
+##### Benjamin Belking
+* CEO of [Teknolojik]
 
 ### Places
 
@@ -149,7 +313,9 @@ All cars except the fuel car have a single door at either end, unless noted othe
 
 ##### Engine
 
-> You step into the state-of-the-art steam engine.  Knobs, gauges, and valves abound.  Heat radiates from a glowing, coal-fired furnace.  A shovel hangs near a small coal chute.
+> You step into the state-of-the-art steam engine.  Knobs, gauges, and valves abound.  Heat radiates from a glowing, coal-fired furnace.  A shovel hangs near a small coal chute.  Sooty scraps of paper line the wall in a protected alcove.
+
+The conductor & engineer is [Eustace Pence], though he will be absent by the time train has reached Selmy.  Hee will be suspicous of any player until he or she expresses interest in the engineering marvel of the [Selmy Express].
 
 ##### Kitchen Car
 
@@ -172,7 +338,6 @@ The bellhop is [Morgan Cheerwine].  He offers to show any players to their rooms
 > You pass between cars, entering the private sleeper car.  The clickety-clack of the tracks is muffled significantly here.  Four sliding doors flank a single, carpeted aisle.
 
 ##### Guard Car
-
 > You step into a musty guardsroom. Hanging cots sway with the motion of the train.  Three guards play cards around a large, wooden trunk.  In the vestibule beyond, you see two guards standing beside a single iron door.
 
 The iron door has a DC20 lock.  A key can be found on one of the guards.
@@ -206,18 +371,31 @@ The caboose contains all the trade goods being transported by [the Selmy Express
    * Mine workers
    * Brothel workers
 
-##### Heritage
-* Frontier town
-* Players could have finished boarding [the Selmy Express] here or on any number of previous stops.
+##### Selmy - Miner's Exchange
+* Where independent contractors cash in their panning, mining, and trapping
+* Proprietor: Jiminy Broodstamp
 
-##### Plena
-* Eastern state of the Calzorne Kingdom.
-* Capital: [Plenaru], literally City of Plena
-* Connected through 
+##### Selmy - The Rosebud
+* The only official brothel in [Selmy] (all others are lone operators)
+* Proprietress: Madame Belvedere
+* Considered a respectable establishment
+* Motto: "Stop by for a good, clean roll in the hay!"
 
-##### Plenaru
-* Capital City of [Plena]
-* Situated on the eastern shore of the [Sea of the Nameless King]
+##### Selmy - Temple of Baris
+* Domain: Light
+* Proprietor: Brother Cameron
+
+##### Selmy - The Ugly Buffalo
+* Inn and tavern
+* Proprietor: Maxwell Ferrier
+
+##### Selmy - Bloodbath & Beyond
+* Franchise general goods and weapon store
+* Proprietress: Cynthia Cain
+
+##### Selmy - Hammer and Tongs
+* Local blacksmith
+*Proprietor: Gordon Bellows
 
 ##### Bellamy Foothills
 
@@ -276,8 +454,7 @@ Dining room, cards, poker chips
 
 ##### Balemort's Crossing - Kennels
 
-##### Balemort's Crossing - 
-A *Rust Monster (MM 262)* named 
+[Fronderick] can be found here, amidst a sea of rusted metal scrap.
 
 ### Access to Balemort's Secret
 
@@ -337,7 +514,26 @@ Herein resides the spirit of [Finnius Tandyl].
 
 ##### Balemort's Secret - Washroom
 
+##### Mad Cloony's Emporium of Oddities
+
+##### Heritage
+* Frontier town
+* Players could have finished boarding [the Selmy Express] here or on any number of previous stops.
+
+##### Plena
+* Eastern state of the Calzorne Kingdom.
+* Capital: [Plenaru], literally City of Plena
+* Connected through 
+
+##### Plenaru
+* Capital City of [Plena]
+* Situated on the eastern shore of the [Sea of the Nameless King]
+
 ### Items
+
+##### Helmut's Bane
+
+Poison - Ingested.  A creature subjected to this poison must succeed on a DC15 Constitution saving throw or gradually become poisoned.  The effects last 1 hour or until the creature vomits.  An intelligent creature is likely to associated the effects with acute food poisoning.
 
 ##### Scrying Bangle
 
@@ -351,10 +547,34 @@ The circlet grants the wearer knowledge of the direction and distance to a linke
 
 ##### Stolen Goods
 
+See the [shipping manifest] for a list of what was stolen.  The goods can be recovered: 
+
+* The clothing of [Levi Entwistle] is discarded near where [the safe] is cracked open
+* The necklace belonging to [Duchess Sterling], trade bars belonging to [Clarence Semmelweis], and the platinum bangle are located in a lockbox at [Balemort's Crossing - Secure Storage]
+* The [engraved, metallic rod] is in being readied for transport from [Balmeort's Crossing] when the players arrive.
+
 ### Factions
 
-##### The Inquisitors
+##### Cantor Railroad Company
+* Our mission: The safety of your person and the security of your goods
+* [Teknolojik] owns a controlling interest the rail line
+* Responsible for transporting goods and personnel throughout the better part of [Plena]
+
+##### The Mastersons
+* "Keep your affairs in order.  The Mastersons have your back."
+* Private security and private investigation
+* Will take most legal jobs, for a price.
+* Had once served the crown as extra muscle, but have since been relieved from any future service, by decree.
+* Notable members
+   * [Special Agent Sancourt]
+   * [Special Agent Jeffords]
 
 ##### Thieves
 
 ##### Spark of Life
+
+##### Teknolojik
+* CEO: Benjamin Belkin
+* A major corporation, headquarters in [Plenaru]
+* Responsible for popularizing electricity in the major metropolises of the kingdom
+* A household name, though it holds little sway on the frontier
