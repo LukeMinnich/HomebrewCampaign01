@@ -269,7 +269,7 @@ The following evidence can lead the players to the culprits
 * Was used to crack open [the Safe].
 
 ##### Fermi Twiststump
-* Female firbolg
+* Male firbolg
 * Portrayal
    * Personality: Scared
    * Posture: Cowed, shoulders pinched
@@ -426,6 +426,12 @@ The [thieves] hired by the [Spark of Life] have taken up shelter in [Balemort's 
 The valley is separated from Selmy by the [Bellamy Foothills].  The color palette is a drab grey-black with a smattering of white.
 
 Entrants to the valley are noticeable from a ways off. Natural predators hunt those who do not take care to move stealthily.  Any creature attempting to spot the party gets advantage if any player wears brightly-colored clothing.  Any loud sounds from spells or obnoxious PC's will attract creatures from up to half a mile away.
+
+Encounters
+* 2x Harpy
+* 2x Giant Hyena
+* 1x Bugbear & 3x Goblins
+
 
 ##### Balemort's Crossing
 
