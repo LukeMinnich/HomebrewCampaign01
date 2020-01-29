@@ -80,7 +80,12 @@
 * A DC12 medicine check will reveal that the corpse has been dead for at least a month.  A check of 18 or higher will reveal it died of starvation.
 
 ##### Arcane Armory
+> The heavy iron swivels loudly on its hinges as light cascades into the room. 
 
+* The room is being used to store a fair bit of the Credenza's wealth
+    * 
+    * Half of the Platinum trade bars (5 x 100gp value) stolen from the Selmy Express
+    * A __Deck of Illusions__, missing (5) cards, for a total of 29
 
 #### Path B - direct to the interrogation room
 
