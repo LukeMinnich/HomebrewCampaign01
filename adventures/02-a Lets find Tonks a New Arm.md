@@ -4,7 +4,7 @@ Where is it reasonable that she could get a new arm?
     * Base model: crafted of sturdy oak, this weighty limb is infused with raw magical essense that links it to the user's mind. Removes movement and other combat penalties relating to dismemberment. _Requires attunement_.
     * Gear model: Servos whizz as you deftly waggle your new limb.  It seems lighter than the base model, and considerably more durable, being comprised of steel. _Side Affects_ This one is not so easy to don and doff as the base model, requiring minor surgery to create a sort of _socket_.
     * Deluxe model: Energy pulses through this skeletonized limb. Featherweight. Waterproof. Cannot be damaged by physical means.  Unarmed strikes can deal 1d4 + Strength modifier. Attacks are considered magical. Functions as a buckler (+1 AC). _Turbo_: once per short rest, you can use an action to activate a thruster mounted in the elbow to make an melee attacked, dealing 2d6 bludgeoning damage on a successful hit. Proficiency and to-hit bonus are at the DM's discretion.
-* A patron comes to Tonks in a vision, describing a source of magic than can restore her. Little does she know that persuing such path will release 
+* A patron comes to Tonks in a vision, describing a source of magic than can restore her. Little does she know that persuing such path will release the entity into the world
 
 ### Things
 
@@ -21,14 +21,13 @@ Where is it reasonable that she could get a new arm?
 * Once called Cockatrice Downs
 * Trade city at the intersection of water and rail transportation
 * Main commerce hub between the central region of [Zenilith], [Plenaru], and the [Plains of Radiance]
-* 
 
 ##### Minerva - Bloodbath & Beyond
 * Franchise general goods and weapon store
 * One of (5) locations! (With 2 more coming soon)
 
 ##### Minerva - Aunt Germime-a
-* Subterranean bar in the Shopping District 
+* Subterranean bar in the Shopping District
 * Jazz club
 * Proprietress: Cynthia Cain, female
 
@@ -73,27 +72,20 @@ Where is it reasonable that she could get a new arm?
     * Fights break out regularly
 * Millenium
 
-##### 
-
-##### Aorta - Festival Grounds
-* usually a pretty expansive homeless encampment
-* encampment will be cleared away by the [Grimes] before the [Lamplight Festival]
-* there will be lots of unrest leading up to the festival
-
 ##### Aorta - Free Council HQ
 
 * Home of the Free Council
     * President: Durnst Garvey
         * Genderless human? (Actually a young Silver Dragon)
         * Answers questions with more questions
-    * Vice President: Gorm Newgate 
+    * Vice President: Gorm Newgate
         * Male half-orc
         * Has a sizeable paunch
         * Has a surprisingly high-pitched voice
     * Treasurer: Alicia Gray
         * Mousy Deep Gnome
 * Spark of Life is a radical sect that operates out of Aorta, in a tenuous relationship with the Free Council
-* There is a loose policing force called the Grimers that keep some of the peace
+* There is a loose policing force called the Grimes that keep some of the peace
 
 ### People
 
@@ -129,11 +121,8 @@ Where is it reasonable that she could get a new arm?
         * Save his own skin
         * Gain power within the faction
 
-##### Everett Livermore
-* High Ranking officer of [the Spark of Life]
-* Handsome male drow
-* Representative of the steel laborer's union in Plenaru
-* Will utilize the [Rod of Rulership] to ignite the powder keg 
+##### Elmo
+* owner of Elmo's Emporium, a magic shop
 
 ##### Carina Guise
 * Fence
@@ -163,10 +152,6 @@ Where is it reasonable that she could get a new arm?
         * Tasha's Hideous Laughter
     * Can use shadow step (60 ft teleport as bonus action between dim light or darkness areas, advantage on ensuing attack)
 
-##### ZQX3AB 00110110 10010101
-* Pentadrone
-* Came to this plane through the rift in Teknologik West
-
 ##### Murphy Graves
 * Was murderd in his home
 * Inhabits his attic as a Ghost
@@ -186,20 +171,6 @@ Where is it reasonable that she could get a new arm?
 * (1) Veteran, (2) Thugs
     * Can choose to pay the "fee" of 50 gp instead
 * (1) Ghost of [Murphy Graves]
-* (1) Pentadrone [ZQX3AB 00110110 10010101]
-
-#### Lamplight Festival
-###### Activities - Lamplight Festival
-* Talent show
-    * Female, bronze dragonborn, Behrkuss Daimo, SINGER (opera)
-    * Male human, Bishop Lentz, JUGGLER (pins, cantaloupes, sedated cats)
-    * Male tortle, Humphrey Ponz, SLAM POET
-* arm wrestling tournament
-    * Male full-blooded orc, Oghmu
-    * Female human fighter/wrestler, Linda Payne
-    * 
-* Pie eating contenst
-* Speech by [Everett Livermore], where he ignites the powder keg
     
 ###### Rumors about Plenaru
 * Another series of layoffs at the Tecknologik factories in Plenaru.  Thousands of out work.  Unemployment tipped past 15%. Benjamin Belkin (CEO) not seen in some time. +

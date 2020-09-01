@@ -80,11 +80,16 @@
 * A DC12 medicine check will reveal that the corpse has been dead for at least a month.  A check of 18 or higher will reveal it died of starvation.
 
 ##### Arcane Armory
-> The heavy iron swivels loudly on its hinges as light cascades into the room. 
+> The heavy iron swivels loudly on its hinges as light cascades into the room.  Weapon racks and runic-engraved shelving hints that this was once an armory, though decades or centuries of disuse has left is dusty and largely vacant. Some recent footprints pass between the mouldering furniture to a shelving unit.
 
-* The room is being used to store a fair bit of the Credenza's wealth
-    * 
+* The shelves are being used to store a fair bit of the Credenza's wealth
+    * 250gp in assorted coin, gems, and artwork
     * Half of the Platinum trade bars (5 x 100gp value) stolen from the Selmy Express
+
+* Anyone who searches the room with a DC12 Investigation check will find
+    * A __Cloak of Elvenkind__
+
+* Anyone who searches the rooxm with a DC15 Investigation check will find
     * A __Deck of Illusions__, missing (5) cards, for a total of 29
 
 #### Path B - direct to the interrogation room
@@ -97,4 +102,25 @@
     * Otherwise the door can be opened with a DC18 thieves' tools check or DC18 athletics check. Either of these options will alert the people in the chamber beyond
 
 ##### Interrogation room / Torture chamber
-> Two chairs sit opposite another amidst a sea of torture devices.  Seated in one, in a daze, you see a familiar face - Carina.  Opposite her 
+> Two chairs sit opposite another amidst a sea of integerrogation apparatus.  Seated in one, in a daze, you see the back of a familiar head - Carina. Opposite her, seated with her hands crossed in her lap, is an ashen-skinned woman, maybe just in her thirties.  An ugly man dozes on the floor against the wall, heavy crossbow across his lap.  The Woman cracks a wry smile as you enter, saying "Well now, isn't this interesting...
+
+1. Cast Mirror Image and summon a Hound of Ill Omen named _Silence_
+2. Confusion and Quicken Fire Bolt (with potential to empower)
+3. Cast Melf's Meteors if fewer than 2 people are affected by Confusion and Quicken Fire Bolt (can empower if did not already)
+4. Cast Lightning Bolt if she thinks she can take out at least (2) players, sending Meteors at the other (2)
+
+* She will Dimension Door away, upstairs to the Giddyup Saloon, if she goes below 20hp and her Hound is defeated
+
+25 Tonks
+23 Jane AC 15 | 50 | 46 | 34 | 13 | 
+16 Vinsir
+14 Thug AC 11 | 32 | 21 | 9 | 0 XX
+14 Thug AC 11 | 32 | 27 | 18 | 8 | 3  
+12 Ursula
+5 Beryl
+4 Silence AC 14| 41 | 31 | 0 | XX
+
+* Carina will be in a daze for the battle, and afterward will require some care and attention to snap her back to reality
+* After coming to her senses, Carina will reveal that she was apprehended by the Credenzas and was being interrogated for information about her business associates and your party.
+* She stayed loyal to your party, only revealing at the last minute that you were attempting to recover some of the goods from the Heist
+* Otherwise she did give up several of her business associates in 

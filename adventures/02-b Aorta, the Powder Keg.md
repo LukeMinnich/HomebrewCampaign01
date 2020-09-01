@@ -20,7 +20,7 @@
 * Boris has worked out an agreement with the Credenza, so he is well financed
 
 ### The Hypnotist
-* Jane Zeen, a copper dragonborn sorceror, who uses Charm spells and psychology and hypnosis to rewire people's brains, making them docile and compliant for interrogation
+* Jane Zeen, a half-drow Shadow Sorceror, who uses Charm spells and psychology and hypnosis to rewire people's brains, making them docile and compliant for interrogation
 * She grew up in the capital and was in training at the University there, but was thrown out for "fucking with her classmates' heads"
 * Is trying to extract info from Carina but having difficuly against her unexpectedly iron will
 * Will flee at around half health - she has bigger plans than dying in Aorta
